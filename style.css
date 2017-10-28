@@ -7,7 +7,7 @@ img.print {
   float: right;
 }
 #header {
-
+  border-bottom: 5px solid grey;
 }
 #logo {
   float: left;
@@ -17,4 +17,10 @@ img.print {
 }
 img.social {
   float: right;
+}
+#footer {
+  border-top: 5px solid grey;
+}
+p {
+  text-indent: 2em;
 }
