@@ -1,0 +1,48 @@
+#container {
+  display: block;
+  margin-left: 190px;
+  margin-right: 190px;
+}
+img.print {
+  float: right;
+}
+#header {
+  border-bottom: 5px solid grey;
+}
+#logo {
+  float: left;
+}
+#social {
+  float: right;
+}
+img.social {
+  float: right;
+}
+
+#footer {
+  display: inline-block;
+  border-top: 5px solid grey;
+}
+p {
+  text-indent: 2em;
+}
+.ingredients {
+  background-image: url(img/list-bg.png);
+}
+ul {
+  display: inline-block;
+}
+.info {
+  display: inline-block;
+  width: 400px;
+}
+#button {
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding:20px;
+  float: right;
+}
+h3.info::before {
+  content: url(img/van-pic.png);
+}
