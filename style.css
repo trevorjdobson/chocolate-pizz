@@ -34,10 +34,15 @@ ul {
 }
 .info {
   display: inline-block;
+  width: 400px;
 }
 #button {
-  background-color: red;
+  background-color: maroon;
   border: none;
   color: white;
   padding:20px;
+  float: right;
+}
+h3.info::before {
+  content: url(img/van-pic.png);
 }
