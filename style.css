@@ -25,3 +25,19 @@ img.social {
 }
 p {
   text-indent: 2em;
+}
+.ingredients {
+  background-image: url(img/list-bg.png);
+}
+ul {
+  display: inline-block;
+}
+.info {
+  display: inline-block;
+}
+#button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding:20px;
+}
