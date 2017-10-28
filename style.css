@@ -1,0 +1,20 @@
+#container {
+  display: block;
+  margin-left: 190px;
+  margin-right: 190px;
+}
+img.print {
+  float: right;
+}
+#header {
+
+}
+#logo {
+  float: left;
+}
+#social {
+  float: right;
+}
+img.social {
+  float: right;
+}
