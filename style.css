@@ -18,9 +18,10 @@ img.print {
 img.social {
   float: right;
 }
+
 #footer {
+  display: inline-block;
   border-top: 5px solid grey;
 }
 p {
   text-indent: 2em;
-}
